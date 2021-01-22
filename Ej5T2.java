@@ -14,7 +14,9 @@ public class Ej5T2 {
 		float nota0a10;
 		float nota10a50;
 		float total50;
-		
+		System.out.println("------------------");
+		System.out.println("ESTA ES LA PRUEBA");
+		System.out.println("------------------");
 		
 		System.out.println("Dime el peso del cuestionario (0.0-1.0)");
 		pesocuestionario = teclado.nextFloat();
